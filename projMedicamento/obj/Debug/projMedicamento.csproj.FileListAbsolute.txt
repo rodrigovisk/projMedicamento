@@ -1,0 +1,7 @@
+E:\facul\ADS471\ED2\Queue\projMedicamento\projMedicamento\obj\Debug\projMedicamento.csprojResolveAssemblyReference.cache
+E:\facul\ADS471\ED2\Queue\projMedicamento\projMedicamento\obj\Debug\projMedicamento.csproj.CoreCompileInputs.cache
+E:\facul\ADS471\ED2\Queue\projMedicamento\projMedicamento\bin\Debug\projMedicamento.exe.config
+E:\facul\ADS471\ED2\Queue\projMedicamento\projMedicamento\bin\Debug\projMedicamento.exe
+E:\facul\ADS471\ED2\Queue\projMedicamento\projMedicamento\bin\Debug\projMedicamento.pdb
+E:\facul\ADS471\ED2\Queue\projMedicamento\projMedicamento\obj\Debug\projMedicamento.exe
+E:\facul\ADS471\ED2\Queue\projMedicamento\projMedicamento\obj\Debug\projMedicamento.pdb
